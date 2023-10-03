@@ -89,9 +89,37 @@ body{
     background-color: white;
     color: black;
 }
+
+.container-servicos{
+    background-color: #05192a;
+    font-size: 1.2em;
+    padding: 60px;
+    overflow: auto;
+}
+.container-servicos h1{
+    font-size: 3em;
+    color: white;
+    margin-bottom: 20px;
+}
+.container-servicos h3{
+    color: #2097ff;
+    padding: 20px 0;
+}
+.container-servicos article{
+    width: 40%;
+    margin: auto;
+}
+.container-servicos li{
+    margin-bottom: 20px;
+    margin-left: 50px;
+    color: white;
+}
 footer{
     text-align: center;
     padding: 80px;
     background-color: #02111f;
     color: gray;
+}
+.text-center{
+    text-align: center;
 }
